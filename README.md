@@ -1,1 +1,0 @@
-# -Alzheimer-s-Disease-Risk-Prediction--app
